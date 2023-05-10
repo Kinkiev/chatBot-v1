@@ -53,6 +53,7 @@ def send_welcome(message):
 #def send_text_message(message):
 #      bot.send_sticker(message.chat.id, sti2)
   
+# ДАЛІ НІЧОГО НЕ ВІДБУВАЄТЬСЯ. ПОТРІБЕН НАСТУПНИЙ КРОК 
 
 def send_text_message(message):
     markup2 = types.InlineKeyboardMarkup(row_width=2)
